@@ -6,10 +6,38 @@
 name: i am ski
 
 # Short bio or description (displayed in the header)
-description: I tend to ramble.
+description: It's like a cow's opinion. 
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+collections:
+  category:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "category"
+    values:
+      layout: "category"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
 
 #
 # Flags below are optional
