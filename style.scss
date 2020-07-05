@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $sourceSerifPro;
   color: $darkGray;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: $sourceSansPro;
+  color: $orange;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,11 +69,12 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -116,8 +117,8 @@ img {
 }
 
 .date {
-  font-style: italic;
-  color: $gray;
+  color: $lightBlue;
+  font-size:85%
 }
 
 // Specify the color of the selection
@@ -192,9 +193,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $orange;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $sourceSerifPro;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -225,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $orange;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
