@@ -1,0 +1,33 @@
+
+//
+// VARIABLES
+//
+
+// Colors
+$lightBlue: #4f87ab;
+$blue: #145e8d;
+$orange: #dd4814;
+$darkOrange: #a92300;
+$green: #68c612;
+$darkGreen: #37cb00;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
+// Font stacks
+$sourceSerifPro: "Source Serif Pro", Georgia, serif;
+$sourceSansPro: "Source Sans Pro", Helvetica, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
