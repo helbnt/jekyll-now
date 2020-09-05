@@ -14,6 +14,8 @@ Since then, I've dabbled with [Expression Engine](https://expressionengine.com/)
 
 Currently, _i-am.ski_ is running on [Jekyll](https://jekyllrb.com). I was most recently using Ghost, but after the second time breaking everything (which I'm very good at), I started looking around for other options. One of the writers I follow, [Matt Gemmell](https://mattgemmell.com), talked about using Jekyll, and becuase I like to experiment (and really love the idea of a static site, and not needing a database), decided to give it a shot. So we are. I'm sure I'll be blogging about Jekyll more in future.
 
-Aside from that bit of geekery, I tend to write about music, or photography, or writing, or, you know, whatever else might strike my fancy. This site isn't tied into any one topic (though others will certainly bubble up to the top more often), and I hope to explore many options.
+I tend to write about music, or photography, or writing, or, you know, whatever else might strike my fancy. This site isn't tied into any one topic (though others will certainly bubble up to the top more often), and I hope to explore many options.
+
+Comments are currently turned off, as I a) don't have enough of an audience to make it worth my time, and b) in trying to keep things as simple and stripped down as possible, it's just one less thing I have to worry about. If you really feel the need to get in touch, [I'm on Twitter](https://www.twitter.com/helbnt). Also, there's no tracking. I don't run ads, and the blog here is mostly for me. If tracking ever becomes part of **i-am.ski**, there will be the typical "I respect your privacy, won't sell your email address" kind of messaging.
 
 So welcome to the site of a guy who has too many interests and hobbies to do any of them justice, and who uses parentesises way too often.
