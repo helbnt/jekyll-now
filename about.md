@@ -4,7 +4,6 @@ permalink: /about/
 ---
 
 
-### Howdy!
 My name is Shad (my initials are S.K.I., hence the domain) and I'm fully aware that a shad is a [type of fish](https://en.wikipedia.org/wiki/American_shad). Deep-bodied herring to be more precise.
 
 **i-am.ski** is collection of blog posts that have spanned nearly 20 years now. I've been blogging since before it was called such, but not consistently. I started with a webpage whose layout was determined by `table` tags, and manually updated everytime I added an entry. Then I discovered [Greymatter](https://en.wikipedia.org/wiki/Greymatter_(software)), and realized the power of such a system.
