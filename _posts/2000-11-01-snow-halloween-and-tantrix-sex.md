@@ -1,7 +1,7 @@
 ---
 categories: old-posts
 hidden: true
-title: Snow, Halloween, and Trantric Sex
+title: Snow, Halloween, and Tantric Sex
 ---
 
 Ah, November. Woke up this morning, peeked outside, and saw a sheen of frost on the cars. Guess Fall is finally and truly here. Part of me is thinking I should be out on the bike every second I get, before the riding season is over and done with. The other part of me is thinking "alright! <b>SNOW</b> is on it's way!!!"
