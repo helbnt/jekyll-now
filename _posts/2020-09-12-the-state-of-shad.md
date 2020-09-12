@@ -4,7 +4,7 @@ Title: The State of Shad
 ---
 It’s 7:53am on a Saturday morning. I’ve been up since 5:16. Woke up to the sound of the cat barfing. Which seems like an apt simile for 2020.
 
-On March 12th, which was a Thursday, I arrived at work and started my morning routine; put my lunch in the fridge, pour some coffee out of my thermos, setup the laptop, and launch the necessary programs I typically use during the day. Opening my inbox, I saw an email from HR stating the growing concerns about COVID-19. They asked that every work from home until the following Friday. I remember thinking “sweet... work from home for a whole week!”
+On March 12th, which was a Thursday, I arrived at work and started my morning routine; put my lunch in the fridge, poured some coffee out of my thermos, setup the laptop, and launch the necessary programs I typically use during the day. Opening my inbox, I saw an email from HR stating the growing concerns about COVID-19. They asked that everyone work from home until the following Friday. I remember thinking “sweet... work from home for a whole week!”
 
 What a naive thought that was.
 
