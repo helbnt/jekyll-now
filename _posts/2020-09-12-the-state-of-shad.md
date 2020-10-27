@@ -8,6 +8,8 @@ On March 12th, which was a Thursday, I arrived at work and started my morning ro
 
 What a naive thought that was.
 
+<!--more-->
+
 You know the rest of the story, unless you’ve been under a rock. Businesses, the economy, people’s livelihoods, all took a major hit. Every day I’m thankful that I have a job I can do remotely full-time. A lot of people weren’t as lucky. 
 
 Having done full-time remote work before, I had an idea of what to expect. This time, however, there was COVID-19 to also deal with. I work in my basement, and there’s one small window that lets in light. It’s the quintessential man cave. Previously, after working several days in a row and not leaving the house, the wife could tell I was getting a bit squirrelly and would take me to our local pub and meetup with friends and talk over a pint or three. This “mini-reset” always helped and the next couple of weeks would be fine.
