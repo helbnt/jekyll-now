@@ -8,7 +8,6 @@ On March 12th, which was a Thursday, I arrived at work and started my morning ro
 
 What a naive thought that was.
 
-<!--more-->
 
 You know the rest of the story, unless you’ve been under a rock. Businesses, the economy, people’s livelihoods, all took a major hit. Every day I’m thankful that I have a job I can do remotely full-time. A lot of people weren’t as lucky. 
 
