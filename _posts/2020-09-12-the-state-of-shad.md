@@ -7,7 +7,7 @@ It’s 7:53am on a Saturday morning. I’ve been up since 5:16. Woke up to the s
 On March 12th, which was a Thursday, I arrived at work and started my morning routine; put my lunch in the fridge, poured some coffee out of my thermos, setup the laptop, and launch the necessary programs I typically use during the day. Opening my inbox, I saw an email from HR stating the growing concerns about COVID-19. They asked that everyone work from home until the following Friday. I remember thinking “sweet... work from home for a whole week!”
 
 What a naive thought that was.
-<!–break–>
+<!--more-->
 
 You know the rest of the story, unless you’ve been under a rock. Businesses, the economy, people’s livelihoods, all took a major hit. Every day I’m thankful that I have a job I can do remotely full-time. A lot of people weren’t as lucky. 
 
