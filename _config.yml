@@ -115,4 +115,4 @@ exclude:
   - CNAME
 
 # Set where to break for the excerpt
-# excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
