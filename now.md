@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Now
+title:
 permalink: /now/
 ---
 
@@ -9,19 +9,19 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 ### /Now
 
 **Reading**<br>
-"Free Wrench" by Joseph R. Lallo. 
-"The Dark" by Jason Brant.
+"Free Wrench" by Joseph R. Lallo.<br>
+"The Dark" by Jason Brant.<br>
 
-**Just Finished**
+**Just Finished**<br>
 "Little Brother" by Corey Doctorow
 
-**Watching**
+**Watching**<br>
 "Mr. Robot" is the current binge.
 
-**Listening**
-Jellyfish Sunrise Radio on Spotify
+**Listening**<br>
+Jellyfish Sunrise Radio on Spotify<br>
 Tom Cosm
 
-**Overall**
+**Overall**<br>
 Just trying to survive with my sanity intact during these crazy political and pandemic times. Experimenting more with creating music, using [Bitwig](https://www.bitwig.com). Anything to ignore the shit storm outside my door.
 
