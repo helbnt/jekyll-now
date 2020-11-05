@@ -4,8 +4,7 @@ title: /Now
 permalink: /now/
 ---
 
-_This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), who in turn was inspisred by [Derek Sivers](https://sive.rs/nowff), who created the "Now" idea.
-
+_This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), who in turn was inspisred by [Derek Sivers](https://sive.rs/nowff), who created the "Now" idea._
 
 
 **Reading**<br>
