@@ -25,4 +25,4 @@ Tom Cosm
 **Overall**<br>
 Just trying to survive with my sanity intact during these crazy political and pandemic times. Experimenting more with creating music, using [Bitwig](https://www.bitwig.com). Anything to ignore the shit storm outside my door.
 
-<sub><sup>Updated 11/04/2020. Yes, the day after the election.</sup></sub>
+<small>Updated 11/04/2020. Yes, the day after the election.</small>
