@@ -10,6 +10,7 @@ layout: default
   </div> 
 
   <div class="date">
-    <i class="fa fa-calendar"></i> {{ page.date | date: "%B %e, %Y" }}
+    <i class="fa fa-calendar"></i> {{ page.date | date: "%B %e, %Y" }}<br>
+	<i class="fas fa-tag"></i> {{ page.categories | join: ', '}}
   </div>
 </article>

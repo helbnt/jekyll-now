@@ -1,6 +1,6 @@
 ---
-Category: personal
-Title: The State of Shad
+title: The State of Shad
+categories: personal
 ---
 It’s 7:53am on a Saturday morning. I’ve been up since 5:16. Woke up to the sound of the cat barfing. Which seems like an apt simile for 2020.
 
