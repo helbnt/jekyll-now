@@ -8,20 +8,22 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 
 
 **Reading**<br>
-"Free Wrench" by Joseph R. Lallo.<br>
-"The Dark" by Jason Brant.<br>
+"An Absolutely Remarkable Thing" by Hank Green<br>
+"Free Wrench" by Joseph R. Lallo.
+
 
 **Just Finished**<br>
 "Little Brother" by Corey Doctorow
 
 **Watching**<br>
-"Mr. Robot" is the current binge.
+"To the Lake" - just finished this post-apocalyptic Russian series on Netflix
 
 **Listening**<br>
 Jellyfish Sunrise Radio on Spotify<br>
-Tom Cosm
+Tom Cosm<br>
+Blade Runner Soundtrack
 
 **Overall**<br>
-Just trying to survive with my sanity intact during these crazy political and pandemic times. Experimenting more with creating music, using [Bitwig](https://www.bitwig.com). Anything to ignore the shit storm outside my door.
+Undergoing a big project at work currently, upgrading Bootstrap 3 to 4. It's amazing how many devs can fuck up so many different ways. Too many chefs in the kitchen and all.
 
-<span class="updated">Updated 11/04/2020. Yes, the day after the election.</span>
+<span class="updated">Updated 11/11/2020. Happy birthday mom! And give it up already Trumpster Fire</span>
