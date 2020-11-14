@@ -1,3 +1,7 @@
+---
+title: The State of Ski
+categories: iamski
+---
 The last several posts have all referenced my struggles to get *i-am.ski* up and running in a manner that I was striving for; namely, to be able to update this site using just my iPad Pro in the simplest manner possible. If I had built *i-am.ski* with [Wordpress](https://www.wordpress.org) or [CraftCMS](https://craftcms.com), or one of a half-dozen other available CMS frameworks, it would have been a simple matter of loading up a web browser and pointing it to the admin backend and posting from there.
 
 But I went and got all pigheaded about this.

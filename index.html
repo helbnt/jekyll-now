@@ -7,7 +7,15 @@ layout: default
   <article class="post">
 
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    {{ post.categories || post.category }}
+    <div class="meta-info">
+      {{ post.date | date: "%m/%d/%Y" }}  // 
+      {% assign sortedCategories = post.categories | sort %}
+      {% for category in sortedCategories %}
+          <span class="tag">
+              <a href="/category/{{ category }}">#{{ category }}</a>
+          </span>
+      {% endfor %}
+    </div>
     <div class="entry">
       {{ post.excerpt }}
     </div>
