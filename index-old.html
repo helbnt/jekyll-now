@@ -8,12 +8,13 @@ layout: default
 
     <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
     <div class="meta-info">
-      {{ post.date | date: "%m/%d/%Y" }}  // {% for category in post.categories %}
-      {% assign cat4url = category | remove:' ' | downcase %}
-      <a href="{{site.baseurl}}/category/{{cat4url}}">
-          <span class="category-item">{{ category }}</span>
-      </a>
-  {% endfor %}
+      {{ post.date | date: "%m/%d/%Y" }}  //  
+        {% for category in post.categories %}
+            {% assign cat4url = category | remove:' ' | downcase %}
+            <a href="{{site.baseurl}}/category/{{cat4url}}">
+                <span class="category-item">{{ category }}</span>
+            </a>
+        {% endfor %}
     
         
     </div>

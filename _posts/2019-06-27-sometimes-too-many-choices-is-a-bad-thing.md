@@ -1,5 +1,5 @@
 ---
-categories: discipline
+categories: personal
 ---
 
 I've been poking at the site recently, updating the templates and sprucing them
