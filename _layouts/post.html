@@ -26,6 +26,12 @@ layout: default
 
   <div class="date">
     <i class="fa fa-calendar"></i> {{ page.date | date: "%B %e, %Y" }}<br>
-	<i class="fas fa-tag"></i>  <a href="/category/{{ category }}">{{ page.categories | join: ', '}}</a>
+	<i class="fas fa-tag"></i>   
+  {% for category in page.categories %} 
+  {% assign cat4url = category | remove:' ' | downcase %}
+   <a href="{{site.baseurl}}/category/{{cat4url}}">
+       <span class="category-item">{{ category }}</span>
+   </a>
+   {% endfor %}
   </div>
 </article>

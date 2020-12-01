@@ -1,5 +1,5 @@
 ---
-categories: discipline
+categories: personal
 ---
 
 No, not the old sitcom.
