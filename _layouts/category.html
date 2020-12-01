@@ -12,7 +12,7 @@ layout: default
 {%- for post in site.posts -%}
 	{%- if post.categories -%}
 		{%- for cat in post.categories -%}
-			{%- if cat == post.title -%}
+			{%- if cat == page.title -%}
 				{%- assign found = true %}
 					<div class="category-post">
 						<h2 class="cp-header">
