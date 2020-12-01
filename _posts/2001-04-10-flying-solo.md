@@ -4,7 +4,7 @@ hidden: true
 ---
 
 Gail's off to Tampa today. Actually, she's already in Tampa, she just called me from the motel they are staying at. [The place](http://www.wyndham.com/) they are staying at sound pretty nice, and they (they, being Gail and her friend Marcia) rented a Mustang Convertible.
-
+<!--more-->
 Sounds rough. No kids, hot car, sitting by the pool. I'm sure she's just going to **hate** it...uh huh.
 
 So it's the kids and I this week. Gail was apprehensive about leaving us. It's not like I can't take care of the kids all by myself. I mean hey, I can make a mean PB&J Sandwich when I put my mind to it. And no one makes a better bowl of cereal than I. And laundry? Heck, I used to live on my own, I can do laundry. Although, I have to say, since I've been married, none of my socks or underwear are pink anymore...

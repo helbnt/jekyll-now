@@ -7,7 +7,7 @@ I'm not a fan of the "Open Office" concept.
 I get that it's supposed to foster creativity and collaboration. That
 productivity is supposed to increase. A worker in an open office is more
 approachable and communication increases.
-
+<!--more-->
 Perhaps that's all true. Personally, I don't buy into it. I think rather than
 fostering collaboration it's fomenting animosity towards fellow co-workers. Case
 in point: my desk is maybe 4' x 2'. I have a side divider that's probably 16"

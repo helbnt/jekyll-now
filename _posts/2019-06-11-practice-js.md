@@ -8,7 +8,7 @@ of the skills essential for a front end developer nowadays is Javascript and my
 skills have always been rusty at best. Rather than play on social media or my
 phone, I'm going to work on becoming more comfortable with Javascript. It's
 certainly a better use of my time.
-
+<!--more-->
 There are dozens and dozens of resources out there, both free and paid. I think
 I'll start with some basics on YouTube and work my way over to [freecodecamp](https://freecodecamp.org). Or maybe vice-versa. Who knows. I'm also going to show what I'm learning here, and present it as if I were teaching you to code. I think that will help my overall
 learning process.

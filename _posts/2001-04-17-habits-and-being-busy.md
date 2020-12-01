@@ -4,7 +4,7 @@ hidden: true
 ---
 
 I'm tired. And I'm whiney. And I don't wanna do anything but sit here and do nothing.Perhaps that's part of the problem. That's what I'm doing.
-
+<!--more-->
 I'm feeling so lethargic right now. I don't feel like doing anything at all. Even if my boss came in and said "Shad, take the rest of the day off, and go home", I couldn't say that I would go home and do something productive, like yardwork, or fun, like riding my bike. I'd probably end up in bed. I'm **SLEEPY**.
 
 Getting back into the habit of writing stuff down is harder than I thought it would be. I keep finding myself putting it off, with one excuse after another. So why do I bother? Well, I like reading what I was thinking prior. I'm also trying to get into the habit because I want to keep a journal when I go on my trip to [Sturgis](http://www.sturgis-rally.com/) this coming August. My buddy Jeff and I are riding there and back. No trailering of the bikes will be happening here. It's just something I've always wanted to do. And I want to record my thoughts about the trip as I go. I think I'll have to resort to keeping my journal the old fashioned way, with pen and paper, but I'm going to write in it every night. And take pictures. I want to take lots of pictures.

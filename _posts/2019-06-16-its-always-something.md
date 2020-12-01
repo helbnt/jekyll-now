@@ -5,7 +5,7 @@ title: It's Always Something
 
 Here I was, all excited about getting a new blog underway, with a new CMS to
 practice with, and of course, I blow it up within a day.
-
+<!--more-->
 Which was stupid. I'm familiar enough with child-themes, having built a few with
 Wordpress. But my brain apparently checked out, and I went and heavily modifed
 the bootstrap-blog theme I was using. And then the next day, [Grav](https://getgrav.org/) notified me of updates that needed to be done. Being a good little web developer (ha), I always

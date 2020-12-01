@@ -4,7 +4,7 @@ hidden: true
 ---
 
 Talk about a nice weekend. Cody and I went on an Indian Guides sponsored camping trip on Saturday night, and man, did we have a blast. We got there early on Saturday (we were the second ones there) and set up our tent. After everyone else arrived we went down to the pond, and did some canoeing, and some fishing. Cody even caught a fish! There was a small barn right next to the pond that had two horses. We fed the horses some, and then headed back to camp.
-
+<!--more-->
 Back at camp, we had a good sized fire going. By now, we had our whole tribe there, along with 2 tribes of Indian Princesses (The Princesses are for Fathers and Daughters, whereas the Guides are for Fathers and Sons). So there were about 20-25 kids there, all running around, playing flashlight tag, and yelling loud enough to shake the leaves off the trees
 
 After we ate dinner, we had a "Silent Walk", where we walked silently up the path (Or tried to. It's kinda tough telling 5 boys to walk quietly) and every 50 yards or so, there was a sign with one of the Indian Guides sayings on it. After that, we sat around the big bonfire, singing songs and telling stories. It felt like the kind of camping experience I always wanted to do as a kid. I was glad Cody and I were able to do it together.

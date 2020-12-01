@@ -11,7 +11,7 @@ there. And then we had a new project start and I was given the Bootstrap/UI
 duties for that team. And then a second project spun up, and it was decided I
 could be a "shared resource", and I was given the Bootstrap/UI duties for that
 project.
-
+<!--more-->
 And then third project came about.
 
 And a fourth.

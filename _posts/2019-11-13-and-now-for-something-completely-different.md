@@ -15,6 +15,7 @@ better than proficient at something:
 > be someone other people turn to to learn this software. Then I can brag about
 > how I've been using Bitwig since v1.o. I even have the badge to prove it. A
 > bit childish and maybe narcissistic, sure... but it's the small things.
+<!--more-->
 
 Like any piece of creative software, whether it be [Affinity's Photo](https://affinity.serif.com/en-us/photo/) or [Designer](https://affinity.serif.com/en-us/designer/), [Scrivener](https://www.literatureandlatte.com/scrivener/overview), or [Ableton Live](https://www.ableton.com/) (Bitwig's main competitor in the DAW field), they're
 all easy enough to do something basic up front, but the real power comes from

@@ -6,7 +6,7 @@ hidden: true
 Ok, I guess I forgot to make sure it works in [Netscape](http://www.netscape.com). I'm really beginning to <b>HATE</b> Netscape. Don't know why I'm bothering to put a link to it here.
 
 Someone get them on the phone. I want to tell them what a cheap, lying, no-good, rotten, four-flushing, low-life, snake-licking, dirt-eating, inbred, overstuffed, ignorant, blood-sucking, dog-kissing, brainless, dickless, hopeless, heartless, fat-ass, bug-eyed, stiff-legged, spotty-lipped, worm-headed sack of monkey shit their product is! Hallelujah! Holy shit, where's the Tylenol.
-
+<!--more-->
 For those that are wondering, that's from [National Lampoons Christmas Vacation](http://us.imdb.com/Title?0097958). I thought it fit well, with a tweak here and there.
 
 Ok, now to back up that little triade with some comments.

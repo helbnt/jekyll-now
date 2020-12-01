@@ -8,7 +8,7 @@ was using, I was working on some pretty basic stuff in Javascript, mainly
 reversing a string. In the post about it, I detailed using Javascript's built-in
 functions to accomplish the task. I mentioned that there was a way to also do
 the same thing using Loops, and that was what I was going to practice with next.
-
+<!--more-->
 While looking over some of the examples to try and understand things better, I
 found that in latest version of Javascript -- ES6 -- there's now a `for...of`
 statement that loops over "iterable objects". Quite frankly, I wasn't sure what

@@ -6,7 +6,7 @@ There's a plethora of JavaScript books available for those who learn best by
 reading. Every single book I've picked up over the years (and I'm embarrassed to
 say how many I have that I've only picked through), has started with "The
 History of JavaScript", to some degree.
-
+<!--more-->
 This annoys me.. I really don't care about the history. Does a
 mechanic open a manual on how to fix an engine and the first chapter is "The
 history of the internal combustion engine"? While I haven't checked any manuals

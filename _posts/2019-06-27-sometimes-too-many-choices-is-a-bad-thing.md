@@ -8,7 +8,7 @@ to stop picking at the site, and adding bits and pieces ~~(see the new footer?)~
 when what I want to do is write more content for the blog. I don't want to keep
 messing with things; for the most part I'm enjoying how the site looks and the
 layout and ease of navigating. But I just can't leave well enough alone.
-
+<!--more-->
 I even went so far as to install [Ghost](https://ghost.org/) on my local machine
 to start playing with that particular CMS to see if I wanted to install it on my
 site. Why? Mostly because... why not? I like to tinker and get a feel for

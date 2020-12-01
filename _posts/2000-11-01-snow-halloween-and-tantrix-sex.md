@@ -5,7 +5,7 @@ title: Snow, Halloween, and Tantric Sex
 ---
 
 Ah, November. Woke up this morning, peeked outside, and saw a sheen of frost on the cars. Guess Fall is finally and truly here. Part of me is thinking I should be out on the bike every second I get, before the riding season is over and done with. The other part of me is thinking "alright! <b>SNOW</b> is on it's way!!!"
-
+<!--more-->
 In case you haven't guessed, I LOVE the snow. I love cold weather. I love it when it's like 20 below, the wind is blowing, the snow is falling, and it's just crap outside. I love that.
 
 Yeah, well, same to you.
