@@ -21,7 +21,7 @@ layout: default
             </h3>
           </a>
           <span class="post-summary">
-              {{ post.excerpt | truncatewords: 220}
+              {{ post.excerpt | truncatewords: 220 }}
           </span>
 		  	{% if post.content.size > post.excerpt.size %}
     <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
