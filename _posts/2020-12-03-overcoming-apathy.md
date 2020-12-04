@@ -1,7 +1,7 @@
 ---
 Title: Trying to Overcome the Apathy
 Layout: default
-Category: personal
+Categories: personal
 ---
 I’m going to set myself a goal for this month: to actually finish something. Whether it’s a song, or a website or a story... I’m going to work on something until I consider it complete.
 
