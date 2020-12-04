@@ -14,6 +14,6 @@ I have an embarrassing amount of music clips in my project folders. I can’t ev
 
 Similarly for my writing folder. Mostly short stories, some longer pieces, some are just a sentence or two of an idea. Fleshing them into something I think worth publishing (or, at the very least, posting here) would be a worthwhile goal.
 
-It might be a tough goal to meet. Much like everything else in my life right now, the desire to accomplish somethign is there, but the drive is practically nil. I find that during the day, I’m more energized to work on something. However, I’m kinda supposed to be doing actual work during the day. Not screwing around trying to create something I can take a bit of pride in. And by the time the evening rolls around and the evening “chores” have been done (go for a walk, figure out dinner, clean the kitchen, etc.), any energy I had for creative pursuits has faded. 
+It might be a tough goal to meet. Much like everything else in my life right now, the desire to accomplish something is there, but the drive is practically nil. I find that during the day, I’m more energized to work on something. However, I’m kinda supposed to be doing actual work during the day. Not screwing around trying to create something I can take a bit of pride in. And by the time the evening rolls around and the evening “chores” have been done (go for a walk, figure out dinner, clean the kitchen, etc.), any energy I had for creative pursuits has faded. 
 
 Every week feels more and more like Groundhog Day.
