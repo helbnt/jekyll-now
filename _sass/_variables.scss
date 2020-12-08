@@ -25,6 +25,8 @@ $sourceSansPro: "Source Sans Pro", Helvetica, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+$poppins: "Poppins", sans-serif;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
