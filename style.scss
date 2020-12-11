@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 $open;
+  font: 16px/1.4 $open;
   color: $darkGray;
 }
 
@@ -218,7 +218,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $open;
-  font-size: 18px;
+  font-size: inherit;
 
   @include mobile {
     float: none;
