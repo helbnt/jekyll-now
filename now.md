@@ -8,22 +8,20 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 
 
 **Reading**<br>
-"An Absolutely Remarkable Thing" by Hank Green<br>
-"Free Wrench" by Joseph R. Lallo.
+The Bone Season, by Samantha Shannon
 
 
 **Just Finished**<br>
-"Little Brother" by Corey Doctorow
+Daisy Jones and The Six by Taylor Jenkins Reid
 
 **Watching**<br>
-"To the Lake" - just finished this post-apocalyptic Russian series on Netflix
+The Expanse<br>
+Mr. Robot
 
 **Listening**<br>
-Jellyfish Sunrise Radio on Spotify<br>
-Tom Cosm<br>
-Blade Runner Soundtrack
+Mostly older Eric Clapton, John Lee Hooker, Buddy Guy, Gary Moore. Blues essentially
 
 **Overall**<br>
-Undergoing a big project at work currently, upgrading Bootstrap 3 to 4. It's amazing how many devs can fuck up so many different ways. Too many chefs in the kitchen and all.
+Still in that Pandemic Depression, but really, who isn't?
 
-<span class="updated">Updated 11/11/2020. Happy birthday mom! And give it up already Trumpster Fire</span>
+<span class="updated">Updated 1/14/2021. </span>
