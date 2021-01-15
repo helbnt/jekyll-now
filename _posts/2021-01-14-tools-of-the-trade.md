@@ -1,6 +1,6 @@
 ---
-title:Tools of the (other people’s) Trade
-categories:geek
+title: Tools of the (other people’s) Trade
+categories: geek
 ---
 I have an odd fascination with how people get the job done. In that I mean, what their tools look like, what their process is, even their work space. 
 <!--more-->
