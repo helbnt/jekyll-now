@@ -8,13 +8,13 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 
 
 **Reading**<br>
-Recursion, by Blake Crouch
-The Collapsing Empire, by John Scalzi
+Recursion, by Blake Crouch<br />
+The Collapsing Empire, by John Scalzi<br />
 
 
-**Just Finished**<br>
-The Bone Season, by Samantha Shannon
-Daisy Jones and The Six by Taylor Jenkins Reid
+**Just Finished**<br />
+The Bone Season, by Samantha Shannon<br />
+Daisy Jones and The Six by Taylor Jenkins Reid<br />
 
 **Watching**<br>
 The Expanse<br>
