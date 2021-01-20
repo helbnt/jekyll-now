@@ -8,10 +8,12 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 
 
 **Reading**<br>
-The Bone Season, by Samantha Shannon
+Recursion, by Blake Crouch
+The Collapsing Empire, by John Scalzi
 
 
 **Just Finished**<br>
+The Bone Season, by Samantha Shannon
 Daisy Jones and The Six by Taylor Jenkins Reid
 
 **Watching**<br>
@@ -24,4 +26,4 @@ Mostly older Eric Clapton, John Lee Hooker, Buddy Guy, Gary Moore. Blues essenti
 **Overall**<br>
 Still in that Pandemic Depression, but really, who isn't?
 
-<span class="updated">Updated 1/14/2021. </span>
+<span class="updated">Updated 1/19/2021. Five days since last update. New record.</span>
