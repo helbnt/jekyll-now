@@ -4,6 +4,7 @@ categories: old-posts
 ---
 I was up late last night, watching The Green Mile and folding laundry. Folding laundry is a task I can do with minimal fuss, as long as I can watch the TV while doing it. So I usually get to fold the laundry. And I'm happy to do it, as long as there's something worth watching on. But I digress...
 <!--more-->
+
 Anyways, I'm sitting there watching the movie and folding laundry at about 11 p.m. last night when I hear Cody get out of bed. He comes out of his room, and without really seeing me, he starts heading downstairs. I asked him where he was going, and he said he was getting some water for the clams. He stood there at the top of the stairs for a minute, while I held my silence waiting to see what he would do. When he didn't do anything for a minute or two, I told him to go back to bed. He simply turned around and climbed back into bed without any fuss.
 
 At least he didn't feel the need to go to the store to get the dogs some dogfood or anything.
