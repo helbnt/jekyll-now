@@ -1,0 +1,7 @@
+---
+title: Found time for a quick note
+categories: old-posts
+---
+Our 4th of July weekend was a blast. Gail's parents came out from Tucson, and we took them out to Ida Lee park in Leesburg, where we've gone everytime since we came out to the East Coast. We keep meaning to get into D.C. to see the National fireworks, but something always precludes us from going. Aside from the extra tight security and terrorist threats, there was the heat to contend with. And truthfully, I think I was more concerned with the heat than the other stuff. Besides, Ida Lee usually puts on a fantanstic show. They had several moon-bounce things for the kids, vendors selling your typical carnival food, and a live band, The Fabulous Hubcaps. We had a great time, and the fireworks were probably some of the best I've seen.
+
+Other than that, it's just been work. Work, work, and more work. We have a huge project, and the launch date was moved up by almost a whole month, so everyone is scrambling like mad. Truthfully, I shouldn't even be writing this. I should be trying to figure out why my stuff doesn't work like it should. But I've been working 70 and 80 hour weeks, so I thought I'd take 15 minutes to update my journal. Poor thing probably feels neglected. :)
