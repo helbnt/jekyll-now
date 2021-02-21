@@ -8,22 +8,23 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 
 
 **Reading**<br>
-Recursion, by Blake Crouch<br />
-The Collapsing Empire, by John Scalzi<br />
+Nomadland, by Jessica Bruder <br />
+Traitor's Blade, by Sebastien de Castell<br>
+
 
 
 **Just Finished**<br />
-The Bone Season, by Samantha Shannon<br />
-Daisy Jones and The Six by Taylor Jenkins Reid<br />
+The Night Circus, by Erin Morgenstern
+
 
 **Watching**<br>
-The Expanse<br>
-Mr. Robot
+Nomadland <br>
+Lost<br>
 
 **Listening**<br>
-Mostly older Eric Clapton, John Lee Hooker, Buddy Guy, Gary Moore. Blues essentially
+My Spotify "Liked" playlist, which is a mishmash of stuff
 
 **Overall**<br>
-Still in that Pandemic Depression, but really, who isn't?
+Had to break ice off the truck with a mallet so I could get breakfast yeseterday. Yup
 
-<span class="updated">Updated 1/19/2021. Five days since last update. New record.</span>
+<span class="updated">Updated 2/21/2021.</span>
