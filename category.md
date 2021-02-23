@@ -22,3 +22,5 @@ permalink: /category/
     {% assign tagitems = tag | split: '#' %}
     <li><a href="/tags/#{{ tagitems[1] }}">{{ tagitems[1] }} ({{ tagitems[2] }})</a></li>
 {% endfor %}
+
+<h3>twat</h3>
