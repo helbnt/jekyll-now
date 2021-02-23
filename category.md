@@ -12,15 +12,15 @@ permalink: /category/
 {% endfor %}
 </ul>
 
-{% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+{% capture cats %}
+  {% for cat in site.categories %}
+    {{ cat[1].size | plus: 1000 }}#{{ cat[0] }}#{{ cat[1].size }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
-{% for tag in sortedtags reversed %}
-    {% assign tagitems = tag | split: '#' %}
-    <li><a href="/tags/#{{ tagitems[1] }}">{{ tagitems[1] }} ({{ tagitems[2] }})</a></li>
+{% assign sortedcats = cats | split:' ' | sort %}
+{% for cat in sortedcats reversed %}
+    {% assign catitems = cat | split: '#' %}
+    <li><a href="/cats/#{{ catitems[1] }}">{{ catitems[1] }} ({{ catitems[2] }})</a></li>
 {% endfor %}
 
 <h3>twat</h3>
