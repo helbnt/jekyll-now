@@ -4,23 +4,18 @@ title: Categories
 permalink: /category/
 ---
 
-<!--
-
-<ul>
-{% for cat in site.categories %}
-    <li>{{ cat[0] }} ({{ cat[1].size }})</li>
-{% endfor %}
-</ul>
--->
 {% capture cats %}
-  {% for cat in site.categories %}
-    {{ cat[1].size | plus: 1000 }}#{{ cat[0] }}#{{ cat[1].size }}
-  {% endfor %}
-{% endcapture %}
+{% for cat in site.categories %}
+  {{ cat[0] }} ({{ cat[1].size }})
+{% endfor %}
+{% endcaptire%} 
+
 {% assign sortedcats = cats | split:' ' | sort %}
 {% for cat in sortedcats reversed %}
     {% assign catitems = cat | split: '#' %}
+    <ul>
     <li><a href="/category/{{ catitems[1] }}">{{ catitems[1] }} ({{ catitems[2] }})</a></li>
+    </ul>
 {% endfor %}
 
 <h3>twat</h3>
