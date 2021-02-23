@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Category
+title: Categories
 permalink: /category/
 ---
 
-<h2>Essay</h2>
+
 
 <ul>
 {% for cat in site.categories %}
