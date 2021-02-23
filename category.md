@@ -14,7 +14,7 @@ permalink: /category/
 {% for cat in sortedcats reversed %}
     {% assign catitems = cat | split: '#' %}
     <ul>
-    <li><a href="/category/{{ catitems[1] }}">{{ catitems[1] }} ({{ catitems[2] }})</a></li>
+    <li><a href="/category/{{ catitems[0] }}">{{ catitems[0] }} ({{ catitems[1] }})</a></li>
     </ul>
 {% endfor %}
 
