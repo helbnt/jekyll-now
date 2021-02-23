@@ -18,9 +18,11 @@ permalink: /category/
   {% endfor %}
 {% endcapture %}
 {% assign sortedcats = cats | split:' ' | sort %}
+<ul>
 {% for cat in sortedcats reversed %}
     {% assign catitems = cat | split: '#' %}
+
     <li><a href="/cats/#{{ catitems[1] }}">{{ catitems[1] }} ({{ catitems[2] }})</a></li>
 {% endfor %}
-
+</ul>
 <h3>twat</h3>
