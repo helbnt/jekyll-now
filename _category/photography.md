@@ -1,5 +1,5 @@
 ---
 layout: category
-category-name: photography
-permalink: "/category/photography/"
+category-name: creative
+permalink: "/category/creative/"
 ---
