@@ -1,4 +1,4 @@
-___
+---
 title: Coming Out of Covid
 categories: personal
 ---
