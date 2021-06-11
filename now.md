@@ -8,23 +8,22 @@ _This "Now" page was inspired by [Matt Gemmell](https://mattgemmell.com/now/), w
 
 
 **Reading**<br>
-Nomadland, by Jessica Bruder <br />
-Traitor's Blade, by Sebastien de Castell<br>
-
+Words of Radience, by Brandon Sanderson<br />
 
 
 **Just Finished**<br />
-The Night Circus, by Erin Morgenstern
+Discworld, by Terry Pratchett<br />
+Full Throttle, by Joe Hill
 
 
 **Watching**<br>
-Nomadland <br>
-Lost<br>
+Ragnarok<br>
+Schitt's Creek<br>
 
 **Listening**<br>
-My Spotify "Liked" playlist, which is a mishmash of stuff
+Going through my old LPs; Iron Maiden to Linda Rondstat. Good to get up and stretch every 20-30 mins to flip the album over.
 
 **Overall**<br>
-Had to break ice off the truck with a mallet so I could get breakfast yeseterday. Yup
+The Brood X Cicada swarm was cool at first, but I'm ready for them to go back underground.
 
-<span class="updated">Updated 2/21/2021.</span>
+<span class="updated">Updated 06/10/2021.</span>
